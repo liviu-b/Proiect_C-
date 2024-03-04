@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/ionutgabriel/C#PROIECT/wwwroot/coca-cola.jpeg",
+      "PackagePath": "staticwebassets/coca-cola.jpeg"
+    },
+    {
+      "Id": "/Users/ionutgabriel/C#PROIECT/wwwroot/lemon.webp",
+      "PackagePath": "staticwebassets/lemon.webp"
+    },
+    {
+      "Id": "/Users/ionutgabriel/C#PROIECT/wwwroot/lime.webp",
+      "PackagePath": "staticwebassets/lime.webp"
+    },
+    {
+      "Id": "/Users/ionutgabriel/C#PROIECT/wwwroot/styles.css",
+      "PackagePath": "staticwebassets/styles.css"
+    },
+    {
+      "Id": "/Users/ionutgabriel/C#PROIECT/wwwroot/zero.webp",
+      "PackagePath": "staticwebassets/zero.webp"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.C#PROIECT.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.C#PROIECT.props",
+      "PackagePath": "build\\C#PROIECT.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.C#PROIECT.props",
+      "PackagePath": "buildMultiTargeting\\C#PROIECT.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.C#PROIECT.props",
+      "PackagePath": "buildTransitive\\C#PROIECT.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
